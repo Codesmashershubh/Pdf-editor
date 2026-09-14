@@ -36,20 +36,20 @@ pdf-studio/
 
 ## Features
 
-- ✅ Open & view PDF files
-- ✅ Edit existing text in PDFs (click any text with Select tool)
-- ✅ Add new text annotations
-- ✅ Freehand drawing & highlighting
-- ✅ Eraser tool
-- ✅ Merge multiple PDFs
-- ✅ Delete individual pages
-- ✅ Extract a single page as a new PDF
-- ✅ Zoom in / out
-- ✅ Page thumbnails panel
-- ✅ Download edited PDF
-- ✅ Keyboard shortcuts
-- ✅ Drag & drop file open
-- ✅ Works on mobile
+-  Open & view PDF files
+-  Edit existing text in PDFs (click any text with Select tool)
+-  Add new text annotations
+-  Freehand drawing & highlighting
+-  Eraser tool
+-  Merge multiple PDFs
+-  Delete individual pages
+-  Extract a single page as a new PDF
+-  Zoom in / out
+-  Page thumbnails panel
+-  Download edited PDF
+-  Keyboard shortcuts
+-  Drag & drop file open
+-  Works on mobile
 
 ---
 
@@ -61,4 +61,3 @@ pdf-studio/
 | [pdf-lib](https://pdf-lib.js.org/) | MIT | 1.17.1 |
 | [Inter](https://rsms.me/inter/) (Google Fonts) | OFL-1.1 | — |
 
-All served from [cdnjs.cloudflare.com](https://cdnjs.cloudflare.com) — no npm install required.
